@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Basic C, Java**
 
-- 📫 How to reach me **rahulkumarsingh0972@gmail.com**
+- 📫 How to reach me **rahulkumarsharma0972@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
